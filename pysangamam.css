@@ -2,6 +2,23 @@ body {
   background: #f9f9f9;
 }
 
+h1 {
+  font-weight: bold;
+}
+
+h1 span {
+  position: relative;
+  content: "PySangamam";
+}
+
+h1:hover span {
+  display: none;
+}
+
+h1:hover:after {
+  content: "Pyசங்கமம்";
+}
+
 .container-invert {
   background: #f3f3f3;
   padding: 10px;
