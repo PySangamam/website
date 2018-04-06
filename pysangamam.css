@@ -90,3 +90,10 @@ h1:hover:after {
   background-color: #227093;
   border-color:  #227093;
 }
+
+#map {
+  position: absolute;
+  width: 100%;
+  left 0;
+  height: 500px;
+}
