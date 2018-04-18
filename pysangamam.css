@@ -6,16 +6,16 @@ h1 {
   font-weight: bold;
 }
 
-h1 span {
+h1#title span {
   position: relative;
   content: "PySangamam";
 }
 
-h1:hover span {
+h1#title:hover span {
   display: none;
 }
 
-h1:hover:after {
+h1#title:hover:after {
   content: "Pyசங்கமம்";
 }
 
