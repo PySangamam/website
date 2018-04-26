@@ -1,0 +1,148 @@
+body {
+  background: #f9f9f9;
+}
+
+h1 {
+  font-weight: bold;
+}
+
+h1#title {
+  height: 100px;
+  color: #fb7d76;
+  text-shadow: 2px 2px 2px #ccc;
+}
+
+h1#title span:after {
+  color: #218c74;
+  content: "Sangamam";
+}
+
+h1#title:hover span:after {
+  content: "சங்கமம்";
+  font-size: 88px;
+}
+
+h1#title:hover span.mobile-span:after {
+  font-size: 55px;
+}
+
+.container-invert {
+  background: #f3f3f3;
+  padding: 10px;
+}
+
+.bg-light {
+  background: #218c74 !important;
+}
+
+.mar-top-10 {
+  margin-top: 10px;
+}
+
+.mar-top-20 {
+  margin-top: 20px;
+}
+
+.mar-top-50 {
+  margin-top: 50px;
+}
+
+.mar-top-60 {
+  margin-top: 60px;
+}
+
+.mar-top-100 {
+  margin-top: 100px;
+}
+
+.pad-top-25 {
+  padding-top: 25px;
+}
+
+.pad-bottom-100 {
+  padding-bottom: 100px;
+}
+
+.open-sans-font {
+  font-family: 'Open Sans', 'Lato', sans-serif;
+}
+
+.font-size-80 {
+  font-size: 80px;
+}
+
+.font-size-50 {
+  font-size: 50px;
+}
+
+.font-size-25 {
+  font-size: 25px;
+}
+
+.font-size-20 {
+  font-size: 20px;
+}
+
+.awesome-date {
+  padding: 10px;
+  border: 2px solid #fb7c75;
+  display: inline-block;
+  color: #2e2e2e;
+}
+
+.btn-primary {
+  background-color: #40407a;
+  border-color:  #40407a;
+}
+
+.btn-primary:hover {
+  background-color: #2c2c54;
+  border-color:  #2c2c54;
+}
+
+.btn-info {
+  background-color: #34ace0;
+  border-color:  #34ace0;
+}
+
+.btn-info:hover {
+  background-color: #227093;
+  border-color:  #227093;
+}
+
+.main {
+  border-bottom: 15px solid #218c74;
+}
+
+#map {
+  position: absolute;
+  width: 100%;
+  left: 0;
+  height: 500px;
+}
+
+::-moz-selection {
+ background: #fb7d76; 
+}
+
+::selection {
+ background: #fb7d76; 
+}
+
+.verticalScroll{
+  height:100px;
+ width: 100px;
+ display: flex;
+  overflow: scroll;
+}
+
+#Py{
+  color: #fb7d76;
+  text-shadow: 2px 2px 2px #ccc;
+}
+#Sangamam
+{
+  color: #218c74;
+  
+  text-shadow: 2px 2px 2px #ccc;  
+}
