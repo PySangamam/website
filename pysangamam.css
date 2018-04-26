@@ -120,3 +120,23 @@ h1#title:hover span.mobile-span:after {
   left: 0;
   height: 500px;
 }
+
+::-moz-selection {
+ background: #fb7d76; 
+}
+
+::selection {
+ background: #fb7d76; 
+}
+
+
+#Py{
+  color: #fb7d76;
+  text-shadow: 2px 2px 2px #ccc;
+}
+#Sangamam
+{
+  color: #218c74;
+  
+  text-shadow: 2px 2px 2px #ccc;  
+}
