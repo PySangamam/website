@@ -129,6 +129,13 @@ h1#title:hover span.mobile-span:after {
  background: #fb7d76; 
 }
 
+#Py::-moz-selection {
+ background: #218c74; 
+}
+
+#Py::selection {
+ background: #218c74; 
+}
 
 #Py{
   color: #fb7d76;
