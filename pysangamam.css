@@ -130,6 +130,14 @@ h1#title:hover span.mobile-span:after {
  background: #218c74; 
 }
 
+#title::selection {
+  background: None;
+}
+
+#title::-moz-selection {
+  background: None;
+}
+
 #Py {
   color: #fb7d76;
   text-shadow: 2px 2px 2px #ccc;
@@ -144,6 +152,7 @@ h1#title:hover span.mobile-span:after {
 background-color: #218c74;
 padding-top: 50px;
 }
+
 #footer a{
   color:white;
 }
