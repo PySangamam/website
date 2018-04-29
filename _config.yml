@@ -1,0 +1,9 @@
+title: PySangamam | Tamil Nadu's first Python Conference
+email: mail@pysangamam.org
+description: Tamil Nadu's first Python Conference
+# the base hostname & protocol for your site
+# If your project is placed in https://github.com/yourname/yourname.github.io at master branch
+# Then, the 'url' is: http://yourname.github.io
+# If your project is placed in another repository as a gh-pages branch, like: https://github.com/yourname/projectname
+# Then, the 'url' is: http://yourname.github.io/projectname
+url: pysangamam.org
