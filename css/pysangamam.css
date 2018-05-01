@@ -110,15 +110,25 @@ h1#title:hover span.mobile-span:after {
   border-color:  #227093;
 }
 
+<<<<<<< HEAD
+=======
+.main {
+  border-bottom: 15px solid #218c74;
+}
+
+>>>>>>> 1426a502147b36eb117b8339183847e14c6a4337
 #map {
   position: absolute;
   width: 100%;
   left: 0;
   height: 500px;
 }
+<<<<<<< HEAD
 
 .sticky-top {
   background: #f9f9f9 !important;
   border-bottom: 1px solid #fb7c75;
   box-shadow: 0 1px 1px rgba(0,0,0,.1);
 }
+=======
+>>>>>>> 1426a502147b36eb117b8339183847e14c6a4337
