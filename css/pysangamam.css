@@ -120,12 +120,12 @@ h1#title:hover span.mobile-span:after {
 #footer{
   padding-top: 0 !important;
   margin-top: 40px !important;
-  background-color: #218c74;
+  background-color: #A8A8A8;
   position: absolute; 
   width:100%;
   color:white !important;
 }
 
 .fa{
-  color :#fb7d76;
+  color :#218c74;
 }
