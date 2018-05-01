@@ -120,7 +120,7 @@ h1#title:hover span.mobile-span:after {
   background-color: #218c74;
   position: absolute; 
   width:100%;
-  height :60px;
+  padding-top: 10px;
   color:white !important;
 }
 
