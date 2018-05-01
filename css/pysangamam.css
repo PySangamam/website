@@ -110,15 +110,13 @@ h1#title:hover span.mobile-span:after {
   border-color:  #227093;
 }
 
-#map {
-  position: absolute;
-  width: 100%;
-  left: 0;
-  height: 500px;
-}
-
 .sticky-top {
   background: #f9f9f9 !important;
   border-bottom: 1px solid #fb7c75;
   box-shadow: 0 1px 1px rgba(0,0,0,.1);
+}
+
+#footer{
+  background-color: #218c74;
+  position: absolute; 
 }
