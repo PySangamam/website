@@ -124,6 +124,8 @@ h1#title:hover span.mobile-span:after {
   position: absolute; 
   width:100%;
   color:white !important;
+  border-bottom: 2px solid #218c74;
+  border-top:2px solid #fb7d76;
 }
 
 .fa{
