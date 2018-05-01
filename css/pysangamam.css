@@ -120,4 +120,5 @@ h1#title:hover span.mobile-span:after {
   background-color: #218c74;
   position: absolute; 
   width:100%;
+  color:#000;
 }
