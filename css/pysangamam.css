@@ -2,6 +2,20 @@ body {
   background: #f9f9f9;
 }
 
+body, .main {
+  border-bottom: 15px solid #218c74;
+}
+
+.navbar {
+  background: #f9f9f9;
+  border-bottom: 1px solid #fb7c75;
+  box-shadow: 0 1px 1px rgba(0,0,0,.1);
+}
+
+.navbar-nav {
+  text-align: right;
+}
+
 h1 {
   font-weight: bold;
 }
@@ -29,10 +43,6 @@ h1#title:hover span.mobile-span:after {
 .container-invert {
   background: #f3f3f3;
   padding: 10px;
-}
-
-.bg-light {
-  background: #218c74 !important;
 }
 
 .mar-top-10 {
@@ -111,14 +121,5 @@ h1#title:hover span.mobile-span:after {
 }
 
 #map {
-  position: absolute;
-  width: 100%;
-  left: 0;
   height: 500px;
-}
-
-.sticky-top {
-  background: #f9f9f9 !important;
-  border-bottom: 1px solid #fb7c75;
-  box-shadow: 0 1px 1px rgba(0,0,0,.1);
 }
