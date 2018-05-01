@@ -118,11 +118,14 @@ h1#title:hover span.mobile-span:after {
 
 
 #footer{
-  margin-top: 0 !important;
+  padding-top: 0 !important;
+  margin-top: 40px !important;
   background-color: #218c74;
   position: absolute; 
   width:100%;
   color:white !important;
 }
 
-
+.fa{
+  color :#fb7d76;
+}
