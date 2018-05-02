@@ -65,6 +65,10 @@ h1#title:hover span.mobile-span:after {
   margin-top: 100px;
 }
 
+.mar-right-20 {
+  margin-right: 20px;
+}
+
 .pad-top-25 {
   padding-top: 25px;
 }
