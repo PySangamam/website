@@ -123,3 +123,18 @@ h1#title:hover span.mobile-span:after {
 #map {
   height: 500px;
 }
+
+#footer{
+  padding-top: 0 !important;
+  margin-top: 40px !important;
+  background: #f3f3f3;
+  position: absolute; 
+  width:100%;
+  color:black !important;
+  border-bottom: 20px solid #218c74;
+  border-top:2px solid #fb7d76;
+}
+
+.fa{
+  color :#218c74;
+}
