@@ -131,7 +131,7 @@ h1#title:hover span.mobile-span:after {
   position: absolute; 
   width:100%;
   color:black ;
-  border-bottom: 20px solid #218c74;
+  border-bottom: 15px solid #218c74;
   border-top:2px solid #fb7d76;
 }
 
