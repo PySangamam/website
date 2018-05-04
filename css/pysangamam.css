@@ -8,7 +8,7 @@ body, .main {
 
 .navbar {
   background: #f9f9f9;
-  border-bottom: 1px solid #fb7c75;
+  border-bottom: 2px solid #fb7c75;
   box-shadow: 0 1px 1px rgba(0,0,0,.1);
 }
 
@@ -125,16 +125,18 @@ h1#title:hover span.mobile-span:after {
 }
 
 #footer{
-  padding-top: 0 ;
+  padding-top: 0;
   margin-top: 40px ;
   background: #f3f3f3;
   position: absolute; 
-  width:100%;
-  color:black ;
+  width: 100%;
+  color: black;
   border-bottom: 15px solid #218c74;
-  border-top:2px solid #fb7d76;
+  border-top: 2px solid #fb7d76;
 }
 
-.fa{
-  color :#218c74;
+svg.icon-link {
+  height: 40px;
+  width: 40px;
+  fill: #218c74;
 }
