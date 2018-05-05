@@ -1,0 +1,43 @@
+<div class="container-fluid pad-top-25 sponsor-list" id="sponsors">
+  <div class="row no-gutters">
+    <div class="col-10 offset-1 col-md-8 offset-md-2">
+      <h2 class="text-center"><b>Sponsors</b></h2>
+      <p class="text-center">
+        PySangamam is purely driven by volunteers.
+        Sponsoring PySangamam helps to grow the conference as well as the community.
+        Sponsors help in making the conference affordable, and maintaining the inventory for the conference.
+        <br>
+        <a target="_blank" href="sponsorship-prospectus.pdf" class="btn btn-lg btn-success mar-top-10">Sponsorship Prospectus</a>
+      </p>
+    </div>
+  </div>
+
+  <div class="row no-gutters">
+    <hr class="col-md-6">
+  </div>
+
+  {% for category in site.data.sponsorship.categories %}
+    <div class="row no-gutters mar-top-20">
+      <div class="col-10 offset-1 col-md-8 offset-md-2 text-center">
+        <h4 class="text-center"><b>{{ category.name }}</b></h4>
+        {% for sponsor in category.sponsors %}
+          <a href="{{ sponsor.website }}">
+            {% if sponsor.image-logo %}
+              <img src="img/{{ sponsor.image-logo }}" alt="{{ sponsor.name }}" class="sponsor-logo">
+            {% else %}
+              {% include_relative img/{{ sponsor.svg-logo }} %}
+            {% endif %}
+          </a>
+
+          {% if sponsor.type %}
+            <p>{{ sponsor.type }}</p>
+          {% endif %}
+        {% endfor %}
+      </div>
+    </div>
+
+    <div class="row no-gutters">
+      <hr class="col-md-1 sponsor-separator">
+    </div>
+  {% endfor %}
+</div>
