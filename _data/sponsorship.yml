@@ -1,0 +1,20 @@
+categories:
+  - name: Silver
+    sponsors:
+      - name: Pipal Academy
+        image-logo: pipal.png
+        website: http://pipal.in/
+  - name: Patron
+    sponsors:
+      - name: Clay Labs
+        svg-logo: claylabs.svg
+        website: http://claylabs.com/
+      - name: OrangeScape
+        image-logo: orangescape-lettered.png
+        website: http://orangescape.com/
+  - name: Partners
+    sponsors:
+      - name: Zilogic Systems
+        svg-logo: zilogic.svg
+        type: Institutional Support
+        website: http://zilogic.com/
