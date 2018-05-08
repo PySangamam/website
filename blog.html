@@ -1,0 +1,22 @@
+---
+layout: blog
+title: Blog Archive
+permalink: /blog
+---
+
+{% for post in site.posts %}
+  <div class="container-fluid pad-top-25">
+    <span class="blog-date">
+      <strong>{{ post.date | date: "%-d %b %Y" | upcase }}</strong>
+    </span>
+    <h3><strong>{{ post.title }}</strong></h3>
+    <p>
+      {{post.excerpt }}
+    </p>
+    <a href="{{ post.url }}">Read More</a>
+  </div>
+
+  <div class="row no-gutters">
+    <hr class="col-md-12">
+  </div>
+{% endfor %}
