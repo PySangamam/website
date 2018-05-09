@@ -35,12 +35,23 @@ permalink: /
 
 <!-- Twitter roll -->
 <div class="container-fluid container-invert pad-top-25">
-  <div class="row no-gutters">
-    <div class="col-md-12 text-center">
-      <h2 class="text-center"><strong>Tweets by PySangamam</strong></h2>
+  <h2 class="text-center"><strong>Latest Updates</strong></h2>
+  <div class="row no-gutters mar-top-20 latest-updates">
+    <div class="col-12 col-md-5 col-lg-4 blog-list mar-top-20">
+      {% for post in site.posts %}
+        <div class="blog-date"><strong>{{ post.date | date: "%-d %b %Y" | upcase }}</strong></div>
+        <a href="{{ post.url }}">{{ post.title }}</a>
+        <small>
+          <p>{{ post.excerpt | strip_html | truncatewords: 15 }}</p>
+          <a href="{{ post.url }}">Read More</a>
+        </small>
+        <hr>
+      {% endfor %}
+    </div>
+    <div class="col-12 col-md-5 col-lg-4 mar-top-20 twitter-roll">
       <a class="twitter-timeline"
         href="https://twitter.com/pysangamam?ref_src=twsrc%5Etfw"
-        data-width="800"
+        data-width="400"
         data-height="400"
         data-chrome="noheader"
         data-dnt="false">
