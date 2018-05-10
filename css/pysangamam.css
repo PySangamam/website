@@ -170,3 +170,41 @@ svg.icon-link {
   display:inline-block;
   padding: 10px;
 }
+
+.latest-updates {
+  justify-content: center;
+}
+
+.latest-updates > div {
+  margin-left: 10px;
+  margin-right: 10px;
+}
+
+.blog-list {
+  max-height: 400px;
+  padding: 30px !important;
+  overflow-x: scroll;
+  width: 400px;
+  height: 400px;
+  background: white;
+}
+
+.blog-list, .twitter-timeline-rendered {
+  border: 1px solid #e2e9ec;
+  box-shadow: 3px 3px 7px 0px rgba(0, 0, 0, 0.15);
+}
+
+.blog-date {
+  font-size: 0.7rem;
+  color: #fb7d76;
+}
+
+@media (min-width: 420px) and (max-width: 768px) {
+  .blog-list {
+    max-width: 400px;
+  }
+
+  .twitter-roll {
+    text-align: center;
+  }
+}
