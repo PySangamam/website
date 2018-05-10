@@ -7,6 +7,7 @@ categories: [Announcement]
 tags: [announcement]
 date: 2018-05-08
 excerpt_separator: <!--more-->
+active: blog
 ---
 #### **Vanakkam 🙏**
 
