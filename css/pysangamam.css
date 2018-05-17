@@ -18,6 +18,7 @@ body, .main {
 
 h1 {
   font-weight: bold;
+  font-size: 80px;
 }
 
 h1#title {
@@ -37,7 +38,7 @@ h1#title:hover span:after {
 }
 
 h1#title:hover span.mobile-span:after {
-  font-size: 55px;
+  font-size: 55px;`
 }
 
 .container-invert {
@@ -207,4 +208,9 @@ svg.icon-link {
   .twitter-roll {
     text-align: center;
   }
+}
+
+a{
+  color : #218c74;
+  text-decoration: None;
 }
