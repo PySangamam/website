@@ -1,0 +1,21 @@
+{% if site.data.speakers %}
+  <div class="container-fluid container-invert pad-top-25" id="speakers">
+    <div class="row no-gutters mar-top-20">
+      <div class="col-10 offset-1 col-md-8 offset-md-2">
+        <h2 class="text-center"><b>Keynote Speakers</b></h2>
+      </div>
+    </div>
+
+    <div class="row no-gutters">
+      <div class="col-12 col-md-10 offset-md-1 text-center">
+        {% for speaker in site.data.speakers %}
+          <div class="speaker">
+            <img src="img/{{speaker.photo}}" class="speaker-photo rounded-circle">
+            <h4><strong>{{speaker.name}}</strong></h4>
+            <p class="text-justify">{{speaker.description}}</p>
+          </div>
+        {% endfor %}
+      </div>
+    </div>
+  </div>
+{% endif %}

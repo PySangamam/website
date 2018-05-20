@@ -204,6 +204,18 @@ svg.icon-link {
   color: #fb7d76;
 }
 
+.speaker {
+  display: inline-block;
+  max-width: 350px;
+  margin: 20px;
+}
+
+.speaker-photo {
+  border: 1px solid #fb7c75;
+  width: 250px;
+  margin: 20px 0;
+}
+
 a:link {
   color: #218c74;
   text-decoration: none;
