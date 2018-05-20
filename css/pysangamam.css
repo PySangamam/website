@@ -136,7 +136,7 @@ h1#title:hover span.mobile-span:after {
   height: 500px;
 }
 
-#footer{
+#footer {
   padding-top: 0;
   background: #f3f3f3;
   position: absolute; 
@@ -182,11 +182,16 @@ svg.icon-link {
 
 .blog-list {
   max-height: 400px;
+  max-width: 500px;
   padding: 30px !important;
   overflow-x: scroll;
   width: 400px;
   height: 400px;
   background: white;
+}
+
+.twitter-roll {
+  max-width: 500px;
 }
 
 .blog-list, .twitter-timeline-rendered {
@@ -197,14 +202,4 @@ svg.icon-link {
 .blog-date {
   font-size: 0.7rem;
   color: #fb7d76;
-}
-
-@media (min-width: 420px) and (max-width: 768px) {
-  .blog-list {
-    max-width: 400px;
-  }
-
-  .twitter-roll {
-    text-align: center;
-  }
 }

@@ -29,10 +29,11 @@ active: home
 
 {% include sponsors.html %}
 
-<!-- Twitter roll -->
+<!-- Blog and Twitter rolls -->
 <div class="container-fluid container-invert pad-top-25">
   <h2 class="text-center"><strong>Latest Updates</strong></h2>
   <div class="row no-gutters mar-top-20 latest-updates">
+    <!-- Blog roll -->
     <div class="col-12 col-md-5 col-lg-4 blog-list mar-top-20">
       {% for post in site.posts %}
         <div class="blog-date"><strong>{{ post.date | date: "%-d %b %Y" | upcase }}</strong></div>
@@ -44,10 +45,12 @@ active: home
         <hr>
       {% endfor %}
     </div>
+
+    <!-- Twitter roll -->
     <div class="col-12 col-md-5 col-lg-4 mar-top-20 twitter-roll">
       <a class="twitter-timeline"
         href="https://twitter.com/pysangamam?ref_src=twsrc%5Etfw"
-        data-width="400"
+        data-width="500"
         data-height="400"
         data-chrome="noheader"
         data-dnt="false">
