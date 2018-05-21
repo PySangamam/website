@@ -27,7 +27,7 @@ PySangamam would like to invite you to present your ideas and showcase your open
 
 #### **Presenting at PySangamam**
 
-**Talks(15 slots)**
+**Talks (15 slots)**
 
 These are standard talk-with-slides of 20 minutes duration, with an additional 5 minutes for Q&A. There are a whole lot of things, you can share with the community, through talks. Here are few things to get you started:
 
@@ -42,7 +42,7 @@ These are standard talk-with-slides of 20 minutes duration, with an additional 5
 
 Just ensure that, what you are talking about, will be interest to a good subset of the Python community.
 
-**Posters(15 slots)**
+**Posters (15 slots)**
 
 Posters provide a graphical summary of projects and ideas. The poster session provides an opportunity to network with the community and acts as a starting point for further discussions. While talks generally needs to appeal to a wide section of the community, posters can cover niche topics. Also posters can be presented in regional languages, like Tamil, as well.
 
