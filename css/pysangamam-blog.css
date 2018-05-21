@@ -5,6 +5,7 @@
 
 h3 {
   color: #218c74;
+  text-align: left;
 }
 
 h4 {
@@ -14,6 +15,10 @@ h4 {
 
 p {
   font-size: 1.12rem;
+}
+
+p:first-of-type {
+  margin-top: 2rem;
 }
 
 .blog-image {
