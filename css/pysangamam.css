@@ -203,3 +203,23 @@ svg.icon-link {
   font-size: 0.7rem;
   color: #fb7d76;
 }
+
+a:link {
+  color: #218c74;
+  text-decoration: none;
+}
+
+a:visited {
+  color: #218c74;
+  text-decoration: none;
+}
+
+a:hover {
+  color: #fb7d76;
+  text-decoration: none;
+}
+
+a:active {
+  color: #fb7d76;
+  text-decoration: none;
+}
