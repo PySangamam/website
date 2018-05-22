@@ -132,6 +132,19 @@ h1#title:hover span.mobile-span:after {
   box-shadow: none;
 }
 
+a.btn-cfp.tsbutton {
+  color: #218c74;
+  border-width: 1px;
+  text-transform: none;
+  min-width: 195px;
+}
+
+a.btn-cfp.tsbutton:hover {
+  border-width: 1px;
+  color: white;
+  text-transform: none;
+}
+
 #map {
   height: 500px;
 }
