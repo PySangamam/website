@@ -14,30 +14,28 @@ Registrations for PySangamam are now open 🚀
 
 PySangamam is run completely by volunteers and we have tried to keep the prices as *affordable* as possible. This year's pricing tiers are as follows:
 
-* **Early Bird (₹ 900<sup>*</sup>)**
+* **Early Bird (₹ 764)**
   * Registrations starts today.
   * Includes conference entry and lunch.
   * T-Shirt is an optional addon.
   * Non-refundable.
 <!--more-->
-* **Regular (₹ 1200<sup>*</sup>)**
+* **Regular (₹ 1020)**
   * Registrations start on 17 June, 2018.
   * Includes conference entry and lunch.
   * T-Shirt is an optional addon.
   * Non-refundable.
-* **Late Bird (₹ 1500<sup>*</sup>)**
+* **Late Bird (₹ 1300)**
   * Registrations start on 7 August, 2018.
   * Includes conference entry and lunch.
   * T-Shirt is an optional addon.
   * Non-refundable.
-* **Contributor (₹ 5000<sup>*</sup>)**
+* **Contributor (₹ 4200)**
   * Registrations ends on 7 September, 2018.
   * Includes conference entry, lunch and T-Shirt.
   * Non-refundable.
   * Helps to provide discounted tickets to students.
   * Ticket holders of this category will be credited on the website.
-
-<sup>*</sup> Prices are inclusive of GST.
 
 <div class="text-center mar-top-20">
   <a
