@@ -37,9 +37,19 @@ PySangamam is run completely by volunteers and we have tried to keep the prices 
 <sup>*</sup> Prices are inclusive of GST.
 
 <div class="text-center mar-top-20">
+
+  <!--
   <a
     onclick="popup('pysangamam2018');"
     class="tsbutton btn btn-lg btn-outline-primary btn-cfp mar-top-10">
+    Buy Tickets
+  </a>
+  -->
+  
+  <a
+     target="_blank"
+     href="https://www.townscript.com/e/pysangamam2018/booking"
+     class="tsbutton btn btn-lg btn-outline-primary btn-cfp mar-top-10">
     Buy Tickets
   </a>
 </div>
