@@ -4,6 +4,9 @@ categories:
       - name: Pipal Academy
         image-logo: pipal.png
         website: http://pipal.in/
+      - name: Muthu Soft Labs
+        image-logo: msl-logo.png
+        website: http://www.mslabs.in/
   - name: Patron
     sponsors:
       - name: Clay Labs
