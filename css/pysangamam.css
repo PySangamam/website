@@ -139,7 +139,7 @@ a.btn-cfp.tsbutton {
   min-width: 195px;
 }
 
-a.btn-cfp.tsbutton:hover {
+a.btn-cfp.tsbutton:hover, a.btn-cfp.tsbutton:focus {
   border-width: 1px;
   color: white;
   text-transform: none;
