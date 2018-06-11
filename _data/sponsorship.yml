@@ -15,6 +15,9 @@ categories:
       - name: OrangeScape
         image-logo: orangescape-lettered.png
         website: http://orangescape.com/
+      - name: Enthought
+        image-logo: enthought.jpg
+        website: https://www.enthought.com/
   - name: Partners
     sponsors:
       - name: Zilogic Systems
