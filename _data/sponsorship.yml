@@ -7,6 +7,9 @@ categories:
       - name: Muthu Soft Labs
         image-logo: msl-logo.png
         website: http://www.mslabs.in/
+      - name: ContentRaven
+        image-logo: contentraven.png
+        website: http://www.contentraven.com/
   - name: Patron
     sponsors:
       - name: Clay Labs
