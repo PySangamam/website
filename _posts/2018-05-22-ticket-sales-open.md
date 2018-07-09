@@ -28,11 +28,16 @@ PySangamam is run completely by volunteers and we have tried to keep the prices 
   * Includes conference entry, lunch and breakfast.
   * Non-refundable.
 * **Contributor (₹ 5000<sup>*</sup>)**
-  * Registrations ends on 7 September, 2018.
+  * Registrations end on 7 September, 2018.
   * Includes conference entry, lunch and breakfast.
   * Non-refundable.
   * Helps to provide discounted tickets to students.
   * Ticket holders of this category will be credited on the website.
+* **Student (₹ 910<sup>*</sup>)**
+  * Registrations end on 7 August, 2018.
+  * Includes conference entry, lunch and breakfast.
+  * Non-refundable.
+  * Ticket holders of this category will need to produce a school/college ID card.
 
 <sup>*</sup> Prices are inclusive of GST.
 
