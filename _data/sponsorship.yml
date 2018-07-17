@@ -15,12 +15,15 @@ categories:
       - name: Clay Labs
         svg-logo: claylabs.svg
         website: http://claylabs.com/
-      - name: OrangeScape
-        image-logo: orangescape-lettered.png
-        website: http://orangescape.com/
+      - name: Duta
+        image-logo: duta.png
+        website: https://duta.in/
       - name: Enthought
         svg-logo: enthought.svg
         website: https://www.enthought.com/
+      - name: OrangeScape
+        image-logo: orangescape-lettered.png
+        website: http://orangescape.com/
   - name: Partners
     sponsors:
       - name: Zilogic Systems

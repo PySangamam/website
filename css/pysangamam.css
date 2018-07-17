@@ -175,8 +175,9 @@ svg.icon-link {
 }
 
 .sp-logo {
-  width: 250px;
-  margin: 30px;
+  max-height: 200px;
+  max-width: 250px;
+  margin: 50px 25px;
 }
 
 .partner-logo {
