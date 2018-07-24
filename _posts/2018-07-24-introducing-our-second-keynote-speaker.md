@@ -10,10 +10,10 @@ excerpt_separator: <!--more-->
 active: blog
 ---
 
-PySangamam is glad to introduce our sencond keynote speaker **Rushabh
+PySangamam is glad to introduce our second keynote speaker **Rushabh
 Mehta**.
 
-Rushab Mehta works with a passionate team and community to
+Rushabh Mehta works with a passionate team and community to
 revolutionize software used by small and medium sized organizations by
 building a high quality, free and open source ERP called
 ERPNext. Rushab is the founder and CEO of Frappe Technologies, the
