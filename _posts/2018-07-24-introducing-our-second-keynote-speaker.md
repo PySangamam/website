@@ -16,7 +16,7 @@ Mehta**.
 Rushabh Mehta works with a passionate team and community to
 revolutionize software used by small and medium sized organizations by
 building a high quality, free and open source ERP called
-ERPNext. Rushab is the founder and CEO of Frappe Technologies, the
+ERPNext. Rushabh is the founder and CEO of Frappe Technologies, the
 company behind ERPNext. At Frappe Technologies his roles include
 software development, design, marketing, accounting, testing,
 vacuuming the floor, taking out the trash or whatever is the
