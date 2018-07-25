@@ -218,6 +218,13 @@ svg.icon-link {
   color: #fb7d76;
 }
 
+@media screen and (min-width: 768px) {
+  .speakers {
+    display: flex;
+    justify-content: center;
+  }
+}
+
 .speaker {
   display: inline-block;
   max-width: 350px;
