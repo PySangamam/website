@@ -1,4 +1,9 @@
 categories:
+  - name: Gold
+    sponsors:
+      - name: Elasticsearch
+        image-logo: elastic.png
+        website: https://www.elastic.co/
   - name: Silver
     sponsors:
       - name: Pipal Academy
