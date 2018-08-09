@@ -1,4 +1,9 @@
 categories:
+  - name: Platinum
+    sponsors:
+      - name: The Python Software Foundation
+        svg-logo: psf.svg
+        website: https://www.python.org/psf/
   - name: Gold
     sponsors:
       - name: Elasticsearch
