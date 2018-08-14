@@ -27,3 +27,5 @@ p:first-of-type {
   display: block;
   border: 1px solid #fb7c75;
 }
+
+p.table { margin: 0 }
