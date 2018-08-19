@@ -2,7 +2,7 @@ categories:
   - name: Platinum
     sponsors:
       - name: The Python Software Foundation
-        image-logo: psf.png
+        svg-logo: psf.svg
         website: https://www.python.org/psf/
   - name: Gold
     sponsors:
