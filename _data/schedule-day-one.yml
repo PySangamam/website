@@ -1,0 +1,67 @@
+- from: "08:00"
+  to: "09:30"
+  topic: "Registration &amp; Breakfast"
+
+- from: "09:30"
+  to: "09:45"
+  topic: "Welcome to PySangamam"
+
+- from: "09:45"
+  to: "10:30"
+  topic: "Keynote 1"
+
+- from: "10:30"
+  to: "11:00"
+  topic: "Creating Pluggable Web-based Electronic Medical Records using Django and a Rich UI with JS - Challenges"
+  id: "1-creating-pluggable-web-based-electronic-medical-records-using-django-and-a-rich-ui-with-js---challenges"
+
+- from: "11:00"
+  to: "11:30"
+  topic: "Gentle Introduction to Effective Parallelism via Computer Vision"
+  id: "3-a-gentle-introduction-to-effective-parallelism-via-computer-vision"
+
+- from: "11:30"
+  to: "12:00"
+  topic: "Tea Break"
+
+- from: "12:00"
+  to: "12:30"
+  topic: "Awesome Command Line Tools"
+  id: "2-awesome-command-line-tools"
+
+- from: "12:30"
+  to: "01:00"
+  topic: "Experience with Python Type Hints"
+  id: "6-experience-with-python-type-hints"
+
+- from: "01:00"
+  to: "02:00"
+  topic: "Lunch"
+
+- from: "02:00"
+  to: "03:00"
+  topic: "Poster Session (Exhibition Hall)"
+
+- from: "03:00"
+  to: "03:30"
+  topic: "Stack Frames and Tail Call Recursion in Python"
+  id: "7-stack-frames-and-tail-call-recursion-in-python"
+
+- from: "03:30"
+  to: "04:00"
+  topic: "Pandas - Data Transformational Data Structure Patterns and Challenges"
+  id: "13-pandas---data-transformational-data-structure-patterns-and-challenges"
+
+- from: "04:00"
+  to: "04:30"
+  topic: "Tea Break"
+
+- from: "04:30"
+  to: "05:00"
+  topic: "Generators Explained"
+  id: "14-generators-explained"
+
+- from: "05:00"
+  to: "05:30"
+  topic: "TakeNote: A Portable Note Taker for People with Visual Impairment"
+  id: "16-takenote-a-portable-note-taker-for-people-with-visual-impairment"
