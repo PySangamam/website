@@ -1,0 +1,63 @@
+- from: "08:00"
+  to: "09:45"
+  topic: "Registration &amp; Breakfast"
+
+- from: "09:45"
+  to: "10:30"
+  topic: "Keynote 2"
+
+- from: "10:30"
+  to: "11:00"
+  topic: "Experimental Mathematics with Python and Sage"
+  id: "10-experimental-mathematics-with-python-and-sage"
+
+- from: "11:00"
+  to: "11:30"
+  topic: "Comprehensive Study of Distance Metric Learning in Nearest Neighbor Algorithm"
+  id: "11-comprehensive-study-of-distance-metric-learning-in-nearest-neighbor-algorithm"
+
+- from: "11:30"
+  to: "12:00"
+  topic: "Tea Break"
+
+- from: "12:00"
+  to: "12:30"
+  topic: "Building a Psychometric Question Calibration Tool with Python"
+  id: "12-building-a-psychometric-question-calibration-tool-with-python"
+
+- from: "12:30"
+  to: "01:00"
+  topic: "From ELIZA to Sofia"
+  id: "8-from-eliza-to-sofia"
+
+- from: "01:00"
+  to: "02:00"
+  topic: "Lunch Break"
+
+- from: "02:00"
+  to: "03:00"
+  topic: "Lightning Talks"
+
+- from: "03:00"
+  to: "03:30"
+  topic: "3.6 <code>&lt;=</code> Dataclasses <code>&gt;=</code> 3.7"
+  id: "15-36--dataclasses--37"
+
+- from: "03:30"
+  to: "04:00"
+  topic: "A Neural Network that can Read your Handwriting - Implementation of Optical Character Recognition using Deep Learning (CNN-N Gram)"
+  id: "9-a-neural-network-that-can-read-your-handwriting---implementation-of-optical-character-recognition-using-deep-learning-cnn-n-gram"
+
+- from: "04:00"
+  to: "04:30"
+  topic: "Tea Break"
+
+- from: "04:30"
+  to: "05:00"
+  topic: "Scaling Python WSGI Servers in Kubernetes"
+  id: "5-scaling-python-wsgi-servers-in-kubernetes"
+
+- from: "05:00"
+  to: "05:30"
+  topic: "Gentle Introduction to GPU Programming"
+  id: "4-gentle-introduction-to-gpu-programming-using-numba"

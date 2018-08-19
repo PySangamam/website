@@ -21,11 +21,17 @@ p:first-of-type {
   margin-top: 2rem;
 }
 
+h5 {
+  margin-top: 2.5rem;
+}
+
+h5 > strong {
+  color: #fb7d76;
+}
+
 .blog-image {
   max-height: 300px;
   margin: 0 auto;
   display: block;
   border: 1px solid #fb7c75;
 }
-
-p.table { margin: 0 }
