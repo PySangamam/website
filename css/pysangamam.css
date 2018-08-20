@@ -264,3 +264,8 @@ a:active {
   color: #fb7d76;
   text-decoration: none;
 }
+
+.schedule-table {
+  max-width: 1280px;
+  margin: 0 auto;
+}

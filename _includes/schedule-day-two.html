@@ -1,0 +1,24 @@
+<table class="table table-bordered">
+  <col width="10%" />
+  <col width="10%" />
+  <col width="80%" />
+  <thead>
+    <tr>
+      <th colspan="2"> Time </th>
+      <th> Auditorium</th>
+    </tr>
+  </thead>
+  <tbody>
+    {% for talk in site.data.schedule-day-two %}
+      <tr>
+        <td>{{talk.from}}</td>
+        <td>{{talk.to}}</td>
+        {% if talk.id %}
+          <td><a target="_blank" href="/blog/2018/08/11/announcing-selected-talks#{{talk.id}}">{{talk.topic}}</a></td>
+        {% else %}
+          <td>{{talk.topic}}</td>
+        {% endif %}
+      </tr>
+    {% endfor %}
+  </tbody>
+</table>
