@@ -1,49 +1,47 @@
-<!-- {% if site.data.speakers %} -->
-  <div class="container-fluid container-invert pad-top-25" id="schedule">
-    <div class="row no-gutters mar-top-20">
-      <div class="col-10 offset-1 col-md-8 offset-md-2">
-        <h2 class="text-center"><b>Conference Schedule</b></h2>
-      </div>
+<div class="container-fluid container-invert pad-top-25" id="schedule">
+  <div class="row no-gutters mar-top-20">
+    <div class="col-10 offset-1 col-md-8 offset-md-2">
+      <h2 class="text-center"><b>Conference Schedule</b></h2>
     </div>
+  </div>
 
-    <div class="row no-gutters">
-      <div class="col-8 offset-2 schedule-table">
+  <div class="row no-gutters">
+    <div class="col-8 offset-2 schedule-table">
 
-        <ul class="nav nav-tabs" role="tablist">
-          <li class="nav-item">
-            <a class="nav-link active"
-              id="day-one-tab"
-              data-toggle="tab"
-              href="#day-one"
-              role="tab"
-              aria-controls="day-one"
-              aria-selected="true">
-              Day 1
-            </a>
-          </li>
+      <ul class="nav nav-tabs" role="tablist">
+        <li class="nav-item">
+          <a class="nav-link active"
+            id="day-one-tab"
+            data-toggle="tab"
+            href="#day-one"
+            role="tab"
+            aria-controls="day-one"
+            aria-selected="true">
+            Day 1
+          </a>
+        </li>
 
-          <li class="nav-item">
-            <a class="nav-link"
-              id="day-two-tab"
-              data-toggle="tab"
-              href="#day-two"
-              role="tab"
-              aria-controls="day-two"
-              aria-selected="false">
-              Day 2
-            </a>
-          </li>
-        </ul>
+        <li class="nav-item">
+          <a class="nav-link"
+            id="day-two-tab"
+            data-toggle="tab"
+            href="#day-two"
+            role="tab"
+            aria-controls="day-two"
+            aria-selected="false">
+            Day 2
+          </a>
+        </li>
+      </ul>
 
-        <div class="tab-content">
-          <div class="tab-pane active" id="day-one" role="tabpanel" aria-labelledby="day-one-tab">
-              {% include schedule-day-one.html %}
-          </div>
-          <div class="tab-pane" id="day-two" role="tabpanel" aria-labelledby="day-two-tab">
-              {% include schedule-day-two.html %}
-          </div>
+      <div class="tab-content">
+        <div class="tab-pane active" id="day-one" role="tabpanel" aria-labelledby="day-one-tab">
+            {% include schedule-day-one.html %}
+        </div>
+        <div class="tab-pane" id="day-two" role="tabpanel" aria-labelledby="day-two-tab">
+            {% include schedule-day-two.html %}
         </div>
       </div>
     </div>
   </div>
-<!-- {% endif %} -->
+</div>
