@@ -36,14 +36,14 @@ are provided below.
 
 This poster is an introduction to IOT using a ESP8266 to hack a toy RC
 car and transform it into a WiFi car. The following topics will be
-convered.
+covered.
 
   * MQTT and How it Works
   * MicroPython and ESP8266
   * Using ESP8266 to Relay Messages
   * Demo: Hacking the WiFi Toy Car
 
-Speaker: **Elisha Robison**.
+Speaker: **Elisha Robinson**.
 
 A software developer with exposure to many different fields, all of
 them share a common link in Python. I have a passion for all things
@@ -80,22 +80,22 @@ GPS simulation, IO simulation and accelerometer simulation.
 Most people are familiar with Python's role in Machine Learning and
 even perhaps IoT. But a lesser known fact is that Python based build
 systems have become the de-facto tools for building Linux based
-embedded systems. In this poster we will explore the inards of a Linux
+embedded systems. In this poster we will explore the innards of a Linux
 based embedded systems and the role of Python based frameworks like
 BitBake and Yocto to build Linux distributions for PC and embedded
 products.
 
 Speaker: **Deepak and Babusubashchandar**
 
-Deepak is an Embedded systems and Linux architect who had worked on
+Deepak is an Embedded systems and Linux architect who has worked on
 development of embedded products. Have a 16 years of experience in
 system design, software development, OS porting, embedded board
 bring-up and software development process automation.
 
-Babusubashchandar is technical specialist at Zilogic systems. An Open
-source and free software enthusiast, embedded software developer, an
-ardent supporter of arts and science. I have a lot of passion towards
-learning and teaching trending technologies.
+Babusubashchandar is a technical specialist at Zilogic systems. An
+Open source and free software enthusiast, embedded software developer,
+an ardent supporter of arts and science. I have a lot of passion
+towards learning and teaching trending technologies.
 
 ##### **4. Empowering Business through Machine Learning using Python**
 
@@ -113,7 +113,7 @@ We will be covering the following topics in this poster presentation:
 
    1. Introduction to Machine learning
    2. How business can be empowered using machine learning
-   3. How we benefitted a local retail store in Madurai and
+   3. How we benefited a local retail store in Madurai and
       Thiagarajar Mills Pvt Ltd Cotton mill with application of
       Machine learning
    4. Explanation of our project - Technical Aspects and Implementation
@@ -122,7 +122,7 @@ We will be covering the following topics in this poster presentation:
 
 Speaker: **P. S. Vivek Raja and K. Kalathiappan**
 
-We are undegrad pre-final students studying in Mepco Schlenk
+We are undergrad pre-final students studying in Mepco Schlenk
 Engineering College. We are machine learning enthusiasts and have
 developed many ML projects and deployed them in real life
 scenarios. We also have won a few ML contests such as CII-Machine
@@ -212,7 +212,7 @@ prototype with RaspberryPi and Python. I will have a demo of the same.
 Speaker: **Devesh Sudhakar Paragiri**
 
 Devesh Sudhakar Paragiri is a Class X student of PSBB. He is the
-co-founder of collegefit.org (incubated @ SanFrancisco) He is a member
+co-founder of collegefit.org (incubated @ San Francisco) He is a member
 of The Junior Academy of Newyork Academy of Sciences
 (www.thejunioracademy.org).
 
