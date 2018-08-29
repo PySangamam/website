@@ -24,26 +24,6 @@ h1 {
   font-weight: bold;
 }
 
-h1#title {
-  height: 100px;
-  color: #fb7d76;
-  text-shadow: 2px 2px 2px #ccc;
-}
-
-h1#title span:after {
-  color: #218c74;
-  content: "Sangamam";
-}
-
-h1#title:hover span:after {
-  content: "சங்கமம்";
-  font-size: 88px;
-}
-
-h1#title:hover span.mobile-span:after {
-  font-size: 55px;
-}
-
 .container-invert {
   background: #f3f3f3;
   padding: 10px;
