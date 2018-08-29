@@ -32,7 +32,7 @@ are provided below.
 
 <!--more-->
 
-##### **1. WiFi Toy Car using MicroPython and MQTT **
+##### **1. WiFi Toy Car using MicroPython and MQTT**
 
 This poster is an introduction to IOT using a ESP8266 to hack a toy RC
 car and transform it into a WiFi car. The following topics will be
