@@ -122,11 +122,12 @@ We will be covering the following topics in this poster presentation:
 
 Speaker: **P. S. Vivek Raja and K. Kalathiappan**
 
-We are undegrad pre-final students studying Mepco Schlekn Engineering
-College. We are machine learning enthusiasts. We have developed many
-ML projects and deployed them in real life scenarios as well. We also
-have won few ML contests such as CII-Machine Learning Technological
-Quest 2018 and participated in over 30 hackathons and competitions.
+We are undegrad pre-final students studying in Mepco Schlenk
+Engineering College. We are machine learning enthusiasts and have
+developed many ML projects and deployed them in real life
+scenarios. We also have won a few ML contests such as CII-Machine
+Learning Technological Quest 2018 and participated in over 30
+hackathons and competitions.
 
 ##### **5. Python Real Time Web**
 
