@@ -137,7 +137,7 @@ frameworks like Django, Flask, Bottle, web2py follow the WSGI protocol
 but the drawback of this WSGI is it's not good for the real-time
 web. So what is the alternative to WSGI?
 
-Here comes ASGI. Wait What is ASGI? What can we do with ASGI? Is it
+Here comes ASGI. Wait, what is ASGI? What can we do with ASGI? Is it
 easy to implement? Is it secure in every way? These and more are
 answered in this poster presentation.
 
@@ -249,7 +249,10 @@ learning Python and building games with it.
 
 Speaker: **Rene Balakumar**
 
-Rene is a Grade IX student.
+Rene is studying 10th standard in Smart Minds Academy run by Mr. KK
+Anand. At first he did not know a thing in the software industry, but
+now he has worked hard to come here for the 1st Python conference in
+Tamil Nadu, thanks to his teacher Ms. Bhuvana.
 
 ##### **11. Python for Tamil Computing**
 
