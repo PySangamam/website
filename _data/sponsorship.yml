@@ -23,6 +23,9 @@ categories:
       - name: Aruba Networks
         image-logo: aruba.png
         website: https://www.arubanetworks.com/
+      - name: Red Hat
+        svg-logo: redhat.svg
+        website: https://www.redhat.com/
   - name: Patron
     sponsors:
       - name: Clay Labs
