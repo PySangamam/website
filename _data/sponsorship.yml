@@ -20,6 +20,9 @@ categories:
       - name: ContentRaven
         image-logo: contentraven.png
         website: http://www.contentraven.com/
+      - name: Aruba Networks
+        svg-logo: aruba.svg
+        website: https://www.arubanetworks.com/
   - name: Patron
     sponsors:
       - name: Clay Labs
