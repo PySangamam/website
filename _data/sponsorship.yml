@@ -24,7 +24,7 @@ categories:
         image-logo: aruba.png
         website: https://www.arubanetworks.com/
       - name: Red Hat
-        svg-logo: redhat.svg
+        image-logo: redhat.png
         website: https://www.redhat.com/
   - name: Patron
     sponsors:
