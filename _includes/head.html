@@ -3,39 +3,34 @@
   <meta charset="utf-8">
   <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
 
-<!-- Open Graph Meta -->
+  <title>{% if page.title %}{{ page.title }} | {% endif %}{{ site.title }}</title>
+  <meta name="description" content="{% if page.description %}{{ page.description }}{% else %}{{ site.description }}{% endif %}" />
+  <meta name="keywords" content="PySangamam, Python, ChennaiPy, Conference" />
 
-    <meta property="og:title" content="Tamil Nadu's First Python Conference" />
-    <meta property="og:description" content="September 7th and 8th, 2018 IC & SR - IIT Madras" />
-    <meta property="og:url" content="http://pysangamam.org/" />
-    <meta property="og:image" content="img/python-logo.png" />
-    <meta property="og:type" content="article" />
+  <!-- Open Graph Meta -->
 
-<!-- WhatsApp Preview -->
+  <meta property="og:title" content="{% if page.title %}{{ page.title }} | {% endif %}{{ site.title }}" />
+  <meta property="og:description" content="{% if page.description %}{{ page.description }}{% else %}{{ site.description }}{% endif %}" />
+  <meta property="og:url" content="https://pysangamam.org/" />
+  <meta property="og:image" content="img/pysangamam-logo.png" />
+  <meta property="og:type" content="article" />
 
-    <link itemprop="thumbnailUrl" href="img/python-logo.png">
-    <span itemprop="thumbnail" itemscope itemtype="http://schema.org/ImageObject">
-      <link itemprop="url" href="img/python-logo.png">
-    </span>
+  <!-- WhatsApp Preview -->
+
+  <link itemprop="thumbnailUrl" href="img/pysangamam-logo.png">
+  <span itemprop="thumbnail" itemscope itemtype="http://schema.org/ImageObject">
+    <link itemprop="url" href="img/pysangamam-logo.png">
+  </span>
 
   <!-- Twitter Summary -->
-    <meta name="twitter:card" content="summary" />
-    <meta name="twitter:site" content="@PySangamam" />
-    <meta name="twitter:creator" content="@PySangamam" />
-
-
-    <meta name="description" content="Tamil Nadu's First Python Conference - September 7th and 8th, 2018 IC & SR - IIT Madras" />
-    <meta name="keywords" content="PySangamam, Python, ChennaiPy, Conference" />
+  <meta name="twitter:card" content="summary" />
+  <meta name="twitter:site" content="@PySangamam" />
+  <meta name="twitter:creator" content="@PySangamam" />
 
   <!-- Bootstrap CSS -->
   <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/css/bootstrap.min.css" integrity="sha384-Gn5384xqQ1aoWXA+058RXPxPg6fy4IWvTNh0E263XmFcJlSAwiGgFAW/dAiS6JXm" crossorigin="anonymous">
-
   <link rel="stylesheet" href="/css/pysangamam.css"/>
-
   <link href='https://fonts.googleapis.com/css?family=Open+Sans:400,700,800,400italic,300,300italic,700italic,800italic' rel='stylesheet' type='text/css'>
-
-  <title>{% if page.title %}{{ page.title }} | {% endif %}{{ site.title }}</title>
-  <title></title>
 
   <!-- Global site tag (gtag.js) - Google Analytics -->
   <script async src="https://www.googletagmanager.com/gtag/js?id=UA-118876982-1"></script>
