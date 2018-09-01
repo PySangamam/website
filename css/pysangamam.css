@@ -24,6 +24,15 @@ h1 {
   font-weight: bold;
 }
 
+h3 {
+  color: #218c74;
+  text-align: left;
+}
+
+h4 {
+  color: #fb7d76;
+}
+
 .container-invert {
   background: #f3f3f3;
   padding: 10px;
