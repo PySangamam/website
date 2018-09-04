@@ -24,14 +24,14 @@ sign-up for the workshop, during the registration process on Day 1.
 Also an attendee can take up only one workshop, this is to ensure that
 there is fair sharing of available seats.
 
-#### **Workshop Details**
+### **Workshop Details**
 
 Detailed description of the workshop, and information about the
 speakers are provided below.
 
 <!--more-->
 
-##### **1. Computer Vision Through the Ages**
+#### **Computer Vision Through the Ages**
 
 **Time**
 
@@ -104,7 +104,7 @@ on-Board vision-based processing for drones. His interest in python
 began during his stay at IIT Madras, from institute courses to CVI
 projects like face recognition, hand gesture control of bots, etc.
 
-##### **2. Concurrent Programming in Python**
+#### **Concurrent Programming in Python**
 
 This Python programming workshop provides insight on how to develop
 concurrent programs on Python.
@@ -167,7 +167,7 @@ reading articles, books and journals related to the same.
 
 LinkedIn: [https://www.linkedin.com/in/chandrashekarbabu/](https://www.linkedin.com/in/chandrashekarbabu/)
 
-##### **3. Introduction to Pandas & Scaling Pandas for large Datasets**
+#### **Introduction to Pandas & Scaling Pandas for large Datasets**
 
 Pandas is a multi purpose data analytics tool which can be used for
 simple, complex and time series aggregations. We have been using
