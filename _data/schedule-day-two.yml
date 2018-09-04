@@ -13,8 +13,8 @@
 
 - from: "11:00"
   to: "11:30"
-  topic: "Comprehensive Study of Distance Metric Learning in Nearest Neighbor Algorithm"
-  id: "11-comprehensive-study-of-distance-metric-learning-in-nearest-neighbor-algorithm"
+  topic: "Scaling Python WSGI Servers in Kubernetes"
+  id: "5-scaling-python-wsgi-servers-in-kubernetes"
 
 - from: "11:30"
   to: "12:00"
@@ -54,8 +54,8 @@
 
 - from: "04:30"
   to: "05:00"
-  topic: "Scaling Python WSGI Servers in Kubernetes"
-  id: "5-scaling-python-wsgi-servers-in-kubernetes"
+  topic: "Comprehensive Study of Distance Metric Learning in Nearest Neighbor Algorithm"
+  id: "11-comprehensive-study-of-distance-metric-learning-in-nearest-neighbor-algorithm"
 
 - from: "05:00"
   to: "05:30"
