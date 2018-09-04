@@ -32,15 +32,30 @@
             Day 2
           </a>
         </li>
+
+        <li class="nav-item">
+          <a class="nav-link"
+            id="workshop-tab"
+            data-toggle="tab"
+            href="#workshop"
+            role="tab"
+            aria-controls="workshop"
+            aria-selected="false">
+            Workshop
+          </a>
+        </li>
       </ul>
 
       <div class="tab-content">
         <div class="tab-pane active" id="day-one" role="tabpanel" aria-labelledby="day-one-tab">
-            {% include schedule-day-one.html %}
+          {% include schedule-day-one.html %}
         </div>
         <div class="tab-pane" id="day-two" role="tabpanel" aria-labelledby="day-two-tab">
-            {% include schedule-day-two.html %}
+          {% include schedule-day-two.html %}
         </div>
+        <div class="tab-pane" id="workshop" role="tabpanel" aria-labelledby="workshop-tab">
+          {% include workshop-schedule.html %}
+      </div>
       </div>
     </div>
   </div>

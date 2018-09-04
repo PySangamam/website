@@ -10,26 +10,26 @@ excerpt_separator: <!--more-->
 active: blog
 ---
 
-While the talks and posters are the main agenda of the conference. We
-do realize people would like try things out hands-on, by interacting
+While the talks and posters are the main agenda of the conference, we
+do realize people would like to try things hands-on, by interacting
 with experts in the field. So, as part of PySangamam 2018, we have the
 following workshops scheduled. 
 
-1. Day 1, Afternoon: **Computer Vision Through the Ages**
-2. Day 2, Forenoon: **Concurrent Programming in Python**
-3. Day 2, Afternoon: **Introduction to Pandas & Scaling Pandas for large Datasets**
+1. **Computer Vision Through the Ages** - Day 1, Afternoon
+2. **Concurrent Programming in Python** - Day 2, Forenoon
+3. **Introduction to Pandas & Scaling Pandas for large Datasets** - Day 2, Afternoon
 
 Each workshop can accommodate a maximum of 60 attendees. Attendees can
-sign-up for the workshop, during the registration process on Day 1.
-Also an attendee can take up only one workshop, this is to ensure that
-there is fair sharing of available seats.
+sign up for the workshop during the registration process on Day 1.
+Please note that an attendee can take up only one workshop to ensure that
+there is a fair sharing of the available seats.
+
+<!--more-->
 
 ### **Workshop Details**
 
 Detailed description of the workshop, and information about the
 speakers are provided below.
-
-<!--more-->
 
 #### **Computer Vision Through the Ages**
 
@@ -49,12 +49,12 @@ Day 1: 3:00 PM to 5:30 PM
 
 **Content Outline**
 
- 1. What is computer vision?  (15 min)
+1. What is computer vision?  (15 min)
     * Teaching computers to see. Difference from image processing.
     * Image and video representations in computers (pixels, colour spaces).
     * Why is computer vision hard?
     * Examples of different computer vision problems (detection,
-    	 segmentation, shape from X, etc).
+      segmentation, shape from X, etc).
 2. Computer Vision through the ages (30 min)
    * The generic pipeline (hand engineered feature approach).
    * Gradient Based Methods (HOG, HAAR).
@@ -80,19 +80,19 @@ Day 1: 3:00 PM to 5:30 PM
 
 Speaker: **Varun Sundar**
 
-I'm python junkie by heart and passionate about using machine
+I'm Python junkie by heart and passionate about using machine
 intelligence to impact our surroundings. As a third year undergraduate
 in the Indian Institute of Technology Madras, and as a part of the
 Computer Vision and Intelligence group, I have been grateful to have
 been a part of a lively peer group. When not scratching my head over
-tensorflow's various confusing API's, I enjoy watching tennis and an
+tensorflow's various confusing APIs, I enjoy watching tennis and an
 occasional trek.
 
 Expertise on subject of the talk: Our blog articles may be found at
-http://iitmcvg.github.io . We organise sessions on computer vision and
+(http://iitmcvg.github.io)[http://iitmcvg.github.io].
+We organise sessions on computer vision and
 Deep learning regularly at IIT Madras. The repository for the same
-(session content history) may be found here:
-https://github.com/iitmcvg/Content.
+(session content history) may be found [here](https://github.com/iitmcvg/Content).
 
 Speaker: **Lokesh Kumar**
 
@@ -100,18 +100,20 @@ Lokesh is a 3rd-year student at IIT Madras. He currently co-heads the
 CVI group, CFI. He uses Python for Computer Vision, Deep Learning, and
 Language Analysis. In DeTect technologies, he has worked on automating
 the chimney and stack inspections using Computer Vision and on
-on-Board vision-based processing for drones. His interest in python
+on-Board vision-based processing for drones. His interest in Python
 began during his stay at IIT Madras, from institute courses to CVI
 projects like face recognition, hand gesture control of bots, etc.
+
+<br>
 
 #### **Concurrent Programming in Python**
 
 This Python programming workshop provides insight on how to develop
-concurrent programs on Python.
-  
+concurrent programs in Python.
+
 This workshop will focus on creating generators and co-routines using
-Python 2 and Python 3 and also on the new `async` and `await` feature
-introduced since Python 3.5.
+Python 2 and Python 3 and also the new `async` and `await` feature
+introduced in Python 3.5.
 
 **Time**
 
@@ -167,6 +169,8 @@ reading articles, books and journals related to the same.
 
 LinkedIn: [https://www.linkedin.com/in/chandrashekarbabu/](https://www.linkedin.com/in/chandrashekarbabu/)
 
+<br>
+
 #### **Introduction to Pandas & Scaling Pandas for large Datasets**
 
 Pandas is a multi purpose data analytics tool which can be used for
@@ -197,7 +201,7 @@ Day 2: 3:00 PM to 5:30 PM
    * Reading multiple formats and creating
    * Simple dataframe operations
 2. Aggregations & Advanced Indexing
-   * Group bys in pandas world
+   * Group-bys in pandas world
    * Simple & complex aggregations
    * Pivots & multi indexes
 3. Visualization
