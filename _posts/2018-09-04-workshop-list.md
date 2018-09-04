@@ -15,9 +15,9 @@ do realize people would like try things out hands-on, by interacting
 with experts in the field. So, as part of PySangamam 2018, we have the
 following workshops scheduled. 
 
-1. Day 1, Afternoon: Computer Vision Through the Ages
-2. Day 2, Forenoon: Concurrent Programming in Python
-3. Day 2, Afternoon: Introduction to Pandas & Scaling Pandas for large Datasets
+1. Day 1, Afternoon: **Computer Vision Through the Ages**
+2. Day 2, Forenoon: **Concurrent Programming in Python**
+3. Day 2, Afternoon: **Introduction to Pandas & Scaling Pandas for large Datasets**
 
 Each workshop can accommodate a maximum of 60 attendees. Attendees can
 sign-up for the workshop, during the registration process on Day 1.
