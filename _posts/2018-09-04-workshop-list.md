@@ -21,7 +21,7 @@ following workshops scheduled.
 
 Each workshop can accomodate a maximum of 60 attendees. Attendees can
 sign-up for the workshop, during the registration process on Day 1.
-Also an attendee can take up only 1 workshop, this to ensure that
+Also an attendee can take up only one workshop, this is to ensure that
 there is fair sharing of available seats.
 
 #### **Workshop Details**
@@ -182,11 +182,11 @@ Day 2: 3:00 PM to 5:30 PM
 
 **Pre-requisites**
 
-    * Basic Python concepts
+* Basic Python concepts
 
 **Software Requirements**
 
-    * Anaconda (Python 3.6)
+* Anaconda (Python 3.6)
 
 **Content Outline**
 
