@@ -10,11 +10,19 @@ excerpt_separator: <!--more-->
 active: blog
 ---
 
-Here's the list of workshops:
+While the talks and posters are the main agenda of the conference. We
+do realize people would like try things out hands-on, by interacting
+with experts in the field. So, as part of PySangamam 2018, we have the
+following workshops scheduled. 
 
-1. Computer Vision Through the Ages
-2. Concurrent Programming in Python
-3. Introduction to Pandas & Scaling Pandas for large Datasets
+1. Day 1, Afternoon: Computer Vision Through the Ages
+2. Day 2, Forenoon: Concurrent Programming in Python
+3. Day 2, Afternoon: Introduction to Pandas & Scaling Pandas for large Datasets
+
+Each workshop can accomodate a maximum of 60 attendees. Attendees can
+sign-up for the workshop, during the registration process on Day 1.
+Also an attendee can take up only 1 workshop, this to ensure that
+there is fair sharing of available seats.
 
 #### **Workshop Details**
 
@@ -182,26 +190,26 @@ Day 2: 3:00 PM to 5:30 PM
 
 **Content Outline**
 
-    1. Basics
-       * Very quick introduction to pandas and jupyter notebook
-       * Pandas Series
-       * Pandas Dataframe
-       * Reading multiple formats and creating
-       * Simple dataframe operations
-    2. Aggregations & Advanced Indexing
-       * Group bys in pandas world
-       * Simple & complex aggregations
-       * Pivots & multi indexes
-    3. Time Series 
-       * Time series data introduction
-       * Time series operations on dataframe
-    4. Visualization
-       * Basic visualizations with dataframe
-    5. Optimizing & Scaling
-       * Optimizing size of dataframe
-       * Thinking in terms of vectorized operations
-       * Introduction to Dask
-       * Introduction to numba
+1. Basics
+   * Very quick introduction to pandas and jupyter notebook
+   * Pandas Series
+   * Pandas Dataframe
+   * Reading multiple formats and creating
+   * Simple dataframe operations
+2. Aggregations & Advanced Indexing
+   * Group bys in pandas world
+   * Simple & complex aggregations
+   * Pivots & multi indexes
+3. Time Series 
+   * Time series data introduction
+   * Time series operations on dataframe
+4. Visualization
+   * Basic visualizations with dataframe
+5. Optimizing & Scaling
+   * Optimizing size of dataframe
+   * Thinking in terms of vectorized operations
+   * Introduction to Dask
+   * Introduction to numba
 
 This session is heavily inspired from [Alexander Hendorf's Data
 Wrangling with pandas
