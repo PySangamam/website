@@ -200,12 +200,9 @@ Day 2: 3:00 PM to 5:30 PM
    * Group bys in pandas world
    * Simple & complex aggregations
    * Pivots & multi indexes
-3. Time Series 
-   * Time series data introduction
-   * Time series operations on dataframe
-4. Visualization
+3. Visualization
    * Basic visualizations with dataframe
-5. Optimizing & Scaling
+4. Optimizing & Scaling
    * Optimizing size of dataframe
    * Thinking in terms of vectorized operations
    * Introduction to Dask
