@@ -19,7 +19,7 @@ following workshops scheduled.
 2. Day 2, Forenoon: Concurrent Programming in Python
 3. Day 2, Afternoon: Introduction to Pandas & Scaling Pandas for large Datasets
 
-Each workshop can accomodate a maximum of 60 attendees. Attendees can
+Each workshop can accommodate a maximum of 60 attendees. Attendees can
 sign-up for the workshop, during the registration process on Day 1.
 Also an attendee can take up only one workshop, this is to ensure that
 there is fair sharing of available seats.
@@ -119,7 +119,7 @@ Day 2: 10:30 AM to 1:00 PM
 
 **Pre-requisites**
 
-  * Participants are expected to basic Python syntax and semantics.
+  * Knowledge of basic Python syntax and semantics
 
 **Software Requirements**
 
