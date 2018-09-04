@@ -23,52 +23,52 @@ speakers are provided below.
 
 <!--more-->
 
-##### **1. Computer Vision Through the Ages*
+##### **1. Computer Vision Through the Ages**
 
-###### Time
+**Time**
 
 Day 1: 3:00 PM to 5:30 PM
 
-###### Pre-requisites
+**Pre-requisites**
 
-    * Knowledge of basic probability
-    * Vector algebra - vectors, matrices, matrix multiplication
-    * Idea of convolutions would be a bonus, but not necessary
+  * Knowledge of basic probability
+  * Vector algebra - vectors, matrices, matrix multiplication
+  * Idea of convolutions would be a bonus, but not necessary
 
-###### Software Requirements
+**Software Requirements**
 
-    * Docker CE 16.0 and above
+  * Docker CE 16.0 and above
 
-###### Content Outline
+**Content Outline**
 
-    1. What is computer vision?  (15 min)
-       * Teaching computers to see. Difference from image processing.
-       * Image and video representations in computers (pixels, colour spaces).
-       * Why is computer vision hard?
-       * Examples of different computer vision problems (detection,
-       	 segmentation, shape from X, etc).
-   2. Computer Vision through the ages (30 min)
-      * The generic pipeline (hand engineered feature approach).
-      * Gradient Based Methods (HOG, HAAR).
-      * Scale invariant Feature Matching Algorithms (SIFT and SURF).
-      * Other tasks with classical Computer vision.
-      * Issues with classical computer vision.
-   3. Rise of learning methods (15 min)
-      * Youtube cats, training on CPUs.
-      * SAIL - the era of GPUs.
-      * In a nutshell, ML+ NN = DL.
-      * Alexnet and the impact of Imagenet.
-   4. The Deep Learning Era in flow (45  min)
-      * Introduction to Machine Learning, benefits of end-to-end solutions.
-      * Using ML algorithms for Computer vision tasks (Hello world (MNIST with keras)).
-      * Feed forward neural networks for MNIST classification.
-      * Introduction to Convolutional Neural Networks (CNNs).
-      * Using CNNs for Image Recognition .
-   5. Concept of Transfer Learning (30 min)
-      * Why transfer learn; Less data? Not always a problem.
-      * Concept of Bottlenecks.
-      * A hands on example.
-      * Practitioner advice; Closing comments.
+ 1. What is computer vision?  (15 min)
+    * Teaching computers to see. Difference from image processing.
+    * Image and video representations in computers (pixels, colour spaces).
+    * Why is computer vision hard?
+    * Examples of different computer vision problems (detection,
+    	 segmentation, shape from X, etc).
+2. Computer Vision through the ages (30 min)
+   * The generic pipeline (hand engineered feature approach).
+   * Gradient Based Methods (HOG, HAAR).
+   * Scale invariant Feature Matching Algorithms (SIFT and SURF).
+   * Other tasks with classical Computer vision.
+   * Issues with classical computer vision.
+3. Rise of learning methods (15 min)
+   * Youtube cats, training on CPUs.
+   * SAIL - the era of GPUs.
+   * In a nutshell, ML+ NN = DL.
+   * Alexnet and the impact of Imagenet.
+4. The Deep Learning Era in flow (45  min)
+   * Introduction to Machine Learning, benefits of end-to-end solutions.
+   * Using ML algorithms for Computer vision tasks (Hello world (MNIST with keras)).
+   * Feed forward neural networks for MNIST classification.
+   * Introduction to Convolutional Neural Networks (CNNs).
+   * Using CNNs for Image Recognition .
+5. Concept of Transfer Learning (30 min)
+   * Why transfer learn; Less data? Not always a problem.
+   * Concept of Bottlenecks.
+   * A hands on example.
+   * Practitioner advice; Closing comments.
 
 Speaker: **Varun Sundar**
 
@@ -105,19 +105,19 @@ This workshop will focus on creating generators and co-routines using
 Python 2 and Python 3 and also on the new `async` and `await` feature
 introduced since Python 3.5.
 
-###### Time
+**Time**
 
 Day 2: 10:30 AM to 1:00 PM
 
-##### Pre-requisites
+**Pre-requisites**
 
   * Participants are expected to basic Python syntax and semantics.
 
-##### Software Requirements
+**Software Requirements**
 
   * Python 3.6 and above
 
-##### Content Outline
+**Content Outline**
 
   - Concurrency Vs Parallelism: Choosing generator/coroutines Vs Threads/Processes
   - Introduction to generators
@@ -157,7 +157,7 @@ around with various free/open source software, toy operating systems,
 learning new libraries, tools, programming languages and at times
 reading articles, books and journals related to the same.
 
-LinkedIn: https://www.linkedin.com/in/chandrashekarbabu/
+LinkedIn: [https://www.linkedin.com/in/chandrashekarbabu/](https://www.linkedin.com/in/chandrashekarbabu/)
 
 ##### **3. Introduction to Pandas & Scaling Pandas for large Datasets**
 
@@ -168,19 +168,19 @@ pieces for a long time now. We will teach the basics and advanced
 aggregations with Pandas. We will also teach newer ways to scale
 pandas for solving medium size data engineering problems.
 
-###### Time
+**Time**
 
 Day 2: 3:00 PM to 5:30 PM
 
-###### Pre-requisites
+**Pre-requisites**
 
     * Basic Python concepts
 
-###### Software Requirements
+**Software Requirements**
 
     * Anaconda (Python 3.6)
 
-###### Content Outline
+**Content Outline**
 
     1. Basics
        * Very quick introduction to pandas and jupyter notebook
@@ -206,8 +206,6 @@ Day 2: 3:00 PM to 5:30 PM
 This session is heavily inspired from [Alexander Hendorf's Data
 Wrangling with pandas
 session](https://github.com/alanderex/pydata-pandas-workshop).
-
-## Speakers: Chaitanya Sangani, Jasjot Singh Mann, Raghotham Sripadraj
 
 Speaker: **Raghotham Sripadraj**
 
