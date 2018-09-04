@@ -61,3 +61,7 @@
   to: "05:30"
   topic: "Gentle Introduction to GPU Programming"
   id: "4-gentle-introduction-to-gpu-programming-using-numba"
+
+- from: "05:30"
+  to: "05:45"
+  topic: "Feedback &amp; Conference Close"
