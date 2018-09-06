@@ -54,9 +54,10 @@ gate. There are IITM buses at regular intervals from the front gate to
 GC.
 
 If you are not familiar with IITM, then entering the campus from the
-front gate is the easiest way to locate the venue. We will be
-providing you with a few phone nos. that you can call up, in case you
-get stuck.
+front gate is the easiest way to locate the venue. You can call us at
+the following phone nos., in case you get stuck.
 
-Sufficient car and bike parking is available at the venue (near
-IC&SR).
+  * Vijay Kumar B. 9444108438
+
+Please be noted that, sufficient car and bike parking is available at
+the venue (near IC&SR).
