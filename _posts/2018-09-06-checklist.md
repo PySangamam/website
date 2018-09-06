@@ -15,8 +15,8 @@ conference. Please read through them carefully.
 
 <!--more-->
 
-* The event dates are 7th and 8th September, *Friday* and
-  *Saturday*. Please double check your travel and accommodation.
+* The event dates are 7th and 8th September, **Friday** and
+  **Saturday**. Please double check your travel and accommodation.
 
 * Registration starts at 8:00 AM. It is good to be earlier at the
   venue, to avoid hassles.
@@ -27,11 +27,10 @@ conference. Please read through them carefully.
 * Please make sure you have updated the correct T-Shirt size, in your
   ticket, this is to ensure a smoother registration process. To do
   this:
-
-  - Visit https://www.townscript.com/dashboard/mybookings
-  - Sign-up / Login
-  - Click on "Edit Ticket"
-  - Update your T-Shirt Size
+    - Visit https://www.townscript.com/dashboard/mybookings
+    - Sign-up / Login (with the email you used when buying the ticket)
+    - Click on "Edit Ticket"
+    - Update your T-Shirt Size
 
 * If you are planning to attend a workshop, please make sure you
   bring along your laptop, with the necessary pre-requisite
@@ -53,11 +52,14 @@ might want to drop off at GC, rather than at the IITM front
 gate. There are IITM buses at regular intervals from the front gate to
 GC.
 
+Here's a google maps link to [the venue](https://goo.gl/maps/6fjhP4sipqG2)
+
 If you are not familiar with IITM, then entering the campus from the
 front gate is the easiest way to locate the venue. You can call us at
 the following phone nos., in case you get stuck.
 
-  * Vijay Kumar B. 9444108438
+  * Vijay Kumar: +91 9444108438
+  * Shiva: +91 8248984778
 
 Please be noted that, sufficient car and bike parking is available at
 the venue (near IC&SR).
