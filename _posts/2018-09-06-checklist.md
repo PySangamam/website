@@ -46,6 +46,7 @@ conference. Please read through them carefully.
 * We recommend that you carry a reusable water bottle so that you can keep
   yourself hydrated during talks.
 
+
 ## Reaching the Venue
 
 The venue, IITM IC&SR is right next to the "Gajendra Circle (GC for
