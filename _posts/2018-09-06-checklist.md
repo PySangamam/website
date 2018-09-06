@@ -62,7 +62,10 @@ If you are not familiar with IITM, then entering the campus from the
 front gate is the easiest way to locate the venue. You can call us at
 the following phone nos., in case you get stuck.
 
-  * Vijay Kumar: +91 9444108438
+  * Ayush Maniar: +91 97731 65221
+  * Aditya: +91 97405 53227
+  * Sumanth Hegde: +91 97404 57567
+  * Vijay Kumar: +91 94441 08438
 
 Please be noted that, sufficient car and bike parking is available at
 the venue (near IC&SR).
