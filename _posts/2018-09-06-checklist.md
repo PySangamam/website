@@ -1,5 +1,5 @@
 ---
-title: Checklist
+title: Checklist for attendees
 author: PySangamam
 layout: blog
 permalink: /blog/2018/09/06/checklist/
@@ -42,6 +42,9 @@ conference. Please read through them carefully.
 
 * Also please be noted that, breakfast and lunch will be provided at
   the venue.
+  
+* We recommend that you carry a reusable water bottle so that you can keep
+  yourself hydrated during talks.
 
 ## Reaching the Venue
 
@@ -63,3 +66,4 @@ the following phone nos., in case you get stuck.
 
 Please be noted that, sufficient car and bike parking is available at
 the venue (near IC&SR).
+
