@@ -63,7 +63,6 @@ front gate is the easiest way to locate the venue. You can call us at
 the following phone nos., in case you get stuck.
 
   * Vijay Kumar: +91 9444108438
-  * Shiva: +91 8248984778
 
 Please be noted that, sufficient car and bike parking is available at
 the venue (near IC&SR).
