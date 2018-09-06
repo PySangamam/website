@@ -15,33 +15,34 @@ conference. Please read through them carefully.
 
 <!--more-->
 
-1. The event dates are 7th and 8th September, *Friday* and
-   *Saturday*. Please double check your travel and accommodation.
+* The event dates are 7th and 8th September, *Friday* and
+  *Saturday*. Please double check your travel and accommodation.
 
-2. Registration starts at 8:00 AM. It is good to be earlier at the
-   venue, to avoid hassles.
+* Registration starts at 8:00 AM. It is good to be earlier at the
+  venue, to avoid hassles.
 
-3. Please carry your ticket (soft-copy preferred), for the
-   registration process.
+* Please carry your ticket (soft-copy preferred), for the
+  registration process.
 
-4. Please make sure you have updated the correct T-Shirt size, in your
-   ticket, this is to ensure a smoother registration process. To do
-   this:
-   * Visit https://www.townscript.com/dashboard/mybookings
-   * Sign-up / Login
-   * Click on "Edit Ticket"
-   * Update your T-Shirt Size
+* Please make sure you have updated the correct T-Shirt size, in your
+  ticket, this is to ensure a smoother registration process. To do
+  this:
 
-5. If you are planning to attend a workshop, please make sure you
-   bring along your laptop, with the necessary pre-requisite
-   installed. Also brush up the fundamentals required for the
-   workshop.
+  - Visit https://www.townscript.com/dashboard/mybookings
+  - Sign-up / Login
+  - Click on "Edit Ticket"
+  - Update your T-Shirt Size
 
-6. If you are planning to do a lightning talk (5 min), please keep
-   your slides ready.
+* If you are planning to attend a workshop, please make sure you
+  bring along your laptop, with the necessary pre-requisite
+  installed. Also brush up the fundamentals required for the
+  workshop.
 
-7. Also please be noted that, breakfast and lunch will be provided at
-   the venue.
+* If you are planning to do a lightning talk (5 min), please keep
+  your slides ready.
+
+* Also please be noted that, breakfast and lunch will be provided at
+  the venue.
 
 ## Reaching the Venue
 
