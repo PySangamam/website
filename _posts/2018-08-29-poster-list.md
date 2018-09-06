@@ -15,7 +15,7 @@ Here's the list of posters we have finalized for the conference.
 1. WiFi Toy Car using MicroPython and MQTT
 2. Testing Embedded Systems with RobotFramework
 3. Python for Building Embedded Linux Distribution
-4. Empowering Business through Machine Learning using Python
+4. A Hand Rehabilitation Exercise System for People With Stroke (HandREPS)
 5. Python Real Time Web
 6. Developing Technology for People with Special Needs using Python
 7. How I Learnt Python and went on to Create an Application, in 5 Days
@@ -97,37 +97,27 @@ Open source and free software enthusiast, embedded software developer,
 an ardent supporter of arts and science. I have a lot of passion
 towards learning and teaching trending technologies.
 
-##### **4. Empowering Business through Machine Learning using Python**
+##### **4. A Hand Rehabilitation Exercise System for People With Stroke (HandREPS)**
 
-We have built a Cotton Procurement Planner System using Multi-Layer
-Neural Network which helps the mill to forecast the demand of cotton
-varieties by predicting the requirement based on historical sales data
-of the mill.
+The system consists of an instrumented glove, an instrumented object
+and an adaptive, interactive virtual reality game. The instrumented
+glove is equipped with inertial motion sensors (MARG sensors) to
+calculate finger and wrist joint angles. The instrumented object
+quantifies hand grasp force using pressure sensing in a pneumatically
+sealed inflatable toy or ball. The data from the glove and object
+drive a 2-D game on a computer to provide patient specific
+rehabilitation exercises. The poster will discuss about the system and
+analysis of data obtained from the system, using Python.
 
-It includes the back end of the application Cotton Procurement
-System. It forecasts the demand of cotton variety. The machine
-learning algorithm of Multi-Layer Neural Network is used in this
-application and the Front-end application is a mobile application.
+Speaker: **Akhil Mohan**
 
-We will be covering the following topics in this poster presentation:
-
-   1. Introduction to Machine learning
-   2. How business can be empowered using machine learning
-   3. How we benefited a local retail store in Madurai and
-      Thiagarajar Mills Pvt Ltd Cotton mill with application of
-      Machine learning
-   4. Explanation of our project - Technical Aspects and Implementation
-   5. Our Future goal - Machine Learning predictive tool in the hands
-      of all people in business
-
-Speaker: **P. S. Vivek Raja and K. Kalathiappan**
-
-We are undergrad pre-final students studying in Mepco Schlenk
-Engineering College. We are machine learning enthusiasts and have
-developed many ML projects and deployed them in real life
-scenarios. We also have won a few ML contests such as CII-Machine
-Learning Technological Quest 2018 and participated in over 30
-hackathons and competitions.
+Akhil Mohan is a doctoral candidate in the Biomedical Devices and
+Technology PhD program, between the three institutions Indian
+Institute of Technology, Madras (IITM), Christian Medical College,
+Vellore (CMC) and Sree Chitra Tirunal Institute for Medical Sciences
+and Technology (SCTIMST). His research focuses on the design,
+development and clinical evaluation of a hand rehabilitation exercise
+system for monitoring hand function after stroke.
 
 ##### **5. Python Real Time Web**
 
@@ -295,3 +285,4 @@ largest conferences on Power Electronics -
 [WiPDA](http://www.wipda-asia.org/) I started a student-run
 cross-disciplinary research lab called [Next Tech
 Lab](https://nextech.io/home).
+
