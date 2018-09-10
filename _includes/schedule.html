@@ -10,7 +10,7 @@
 
       <ul class="nav nav-tabs" role="tablist">
         <li class="nav-item">
-          <a class="nav-link"
+          <a class="nav-link active"
             id="day-one-tab"
             data-toggle="tab"
             href="#day-one"
@@ -22,7 +22,7 @@
         </li>
 
         <li class="nav-item">
-          <a class="nav-link active"
+          <a class="nav-link"
             id="day-two-tab"
             data-toggle="tab"
             href="#day-two"
@@ -47,10 +47,10 @@
       </ul>
 
       <div class="tab-content">
-        <div class="tab-pane" id="day-one" role="tabpanel" aria-labelledby="day-one-tab">
+        <div class="tab-pane active" id="day-one" role="tabpanel" aria-labelledby="day-one-tab">
           {% include schedule-day-one.html %}
         </div>
-        <div class="tab-pane active" id="day-two" role="tabpanel" aria-labelledby="day-two-tab">
+        <div class="tab-pane" id="day-two" role="tabpanel" aria-labelledby="day-two-tab">
           {% include schedule-day-two.html %}
         </div>
         <div class="tab-pane" id="workshop" role="tabpanel" aria-labelledby="workshop-tab">
