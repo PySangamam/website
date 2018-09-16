@@ -1,0 +1,113 @@
+- name: Contributors
+  description: The following contributors purchased tickets from our Contributor category thereby making it possible
+    to keep the ticket rates affordable for students.
+  volunteers:
+    - name: BABU SK
+    - name: Samuel Vijaykumar
+    - name: Amjidanutpan Ramanujam
+    - name: Nisar Sayed
+    - name: Karthik Viswanathan
+    - name: Ravi Shankar
+    - name: Vivek Radhakrishnan
+    - name: Krishna Sangeeth
+    - name: Senthil Kumaran S
+      social:
+        - type: LinkedIn
+          url: https://www.linkedin.com/in/stylesen/
+    - Vijay Kumar B
+
+- name: Web Team
+  description: The following people were responsible for building and
+    maintaining the website. Special thanks to Siva for leading the effort.
+  volunteers:
+    - name: Sivasubramanyam A
+    - name: Syed Jafer
+    - name: Ragupathi
+
+- name: Promotion and Sponsorship Team
+  description: The following people were responsible for helping with
+    promotion and sponsorship. Special thanks to Senthil for leading the effort.
+  volunteers:
+    - name: Senthil Kumaran S
+      social:
+        - type: LinkedIn
+          url: https://www.linkedin.com/in/stylesen/
+    - name: Prashanth
+    - name: Vinod Kumar
+    - name: Arunram
+    - name: Srini
+
+- name: CFP Review Team
+  description: The CFP review team, was responsible for reviewing the
+    proposals, and helping with the selection of talks and posters.
+  volunteers:
+    - name: Nischal
+      social:
+        - type: LinkedIn
+          url: https://www.linkedin.com/in/nischalhp/
+    - name: Amit Kapoor
+    - name: Anand Pillai
+    - name: Ramya
+    - name: Akshay Aurora
+    - name: Senthil Kumaran S
+      social:
+        - type: LinkedIn
+          url: https://www.linkedin.com/in/stylesen/
+    - name: Shiva
+    - name: Ashok
+    - name: Abishek Yadav
+
+- name: On the Ground Support
+  description: The following people provided on the ground support.
+  volunteers:
+    - name: Abhirath
+    - name: Shiva
+    - name: Joses Paul
+    - name: Deepak
+    - name: Vignesh Kumar
+    - name: Siva
+    - name: Venkatesh
+    - name: Ashok
+    - name: Raman
+    - name: Dominic
+    - name: Vignesh
+    - name: Sayak
+    - name: Ronan
+    - name: Yash
+    - name: Ajit
+    - name: Rajkumar
+    - name: Anand Uday Gohkale
+    - name: Ayush Maniar
+    - name: Aditya
+
+- name: Logo Design
+  description: The following people contributed to the logo design.
+  volunteers:
+    - name: Suraj Sridhar
+    - name: Rengaraj - Suggested the Kural
+
+- name: Organizers
+  description: The following people are to be blamed for everything that went wrong. (In alphabetical order).
+  volunteers:
+    - name: Abishek Yadav
+    - name: Ashok
+    - name: Babusubashchandar
+    - name: Krishna Sangeeth
+    - name: Magesh
+    - name: Naren
+    - name: Rengaraj
+    - name: Senthil Kumaran S
+      social:
+        - type: LinkedIn
+          url: https://www.linkedin.com/in/stylesen/
+    - name: Shrayas
+    - name: Vijay Kumar B
+
+- name: Original Idea
+  description: The following people came up with the crazy idea of running 
+    the conference, despite having zero experince in running one.
+  volunteers:
+    - name: Abishek Yadav
+    - name: Shrayas
+    - name: Rengaraj
+    - name: Vijay Kumar B
