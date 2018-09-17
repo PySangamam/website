@@ -7,20 +7,38 @@
     - name: Amjidanutpan Ramanujam
     - name: Nisar Sayed
     - name: Karthik Viswanathan
+      social:
+        - type: LinkedIn
+          url: https://www.linkedin.com/in/argvk/
+        - type: Twitter
+          url: https://twitter.com/argvk
     - name: Ravi Shankar
     - name: Vivek Radhakrishnan
     - name: Krishna Sangeeth
+      social:
+        - type: LinkedIn
+          url: https://www.linkedin.com/in/krishna-sangeeth-ks-23872454
+        - type: Twitter
+          url: https://twitter.com/whiletruelearn
     - name: Senthil Kumaran S
       social:
         - type: LinkedIn
           url: https://www.linkedin.com/in/stylesen/
     - name: Vijay Kumar B
+      social:
+        - type: LinkedIn
+          url: https://www.linkedin.com/in/bravegnu/
+        - type: Twitter
+          url: https://twitter.com/bravegnu
 
 - name: Web Team
   description: The following people were responsible for building and
     maintaining the website. Special thanks to Siva for leading the effort.
   volunteers:
     - name: Sivasubramanyam A
+      social:
+        - type: Twitter
+          url: https://twitter.com/astronomersiva
     - name: Syed Jafer
     - name: Ragupathi
 
@@ -35,7 +53,12 @@
     - name: Prashanth
     - name: Vinod Kumar
     - name: Arunram
-    - name: Srini
+    - name: Srinivasan Rangarajan
+      social:
+        - type: LinkedIn
+          url: https://www.linkedin.com/in/cnus8n/
+        - type: Twitter
+          url: https://twitter.com/cnu
 
 - name: CFP Review Team
   description: The CFP review team, was responsible for reviewing the
@@ -48,6 +71,11 @@
         - type: Twitter
           url: http://twitter.com/nischalhp
     - name: Amit Kapoor
+      social:
+        - type: LinkedIn
+          url: https://www.linkedin.com/in/amitkaps/
+        - type: Twitter
+          url: https://twitter.com/amitkaps
     - name: Anand Pillai
     - name: Ramya
     - name: Akshay Aurora
@@ -58,6 +86,11 @@
     - name: Shiva
     - name: Ashok
     - name: Abhishek Yadav
+      social:
+        - type: LinkedIn
+          url: https://www.linkedin.com/in/abhishek-yadav-3b11207/
+        - type: Twitter
+          url: https://twitter.com/h6165
 
 - name: On the Ground Support
   description: The following people provided on the ground support.
@@ -113,4 +146,3 @@
     - name: Shrayas
     - name: Rengaraj
     - name: Vijay Kumar B
-
