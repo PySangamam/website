@@ -28,7 +28,7 @@ permalink: /credits
                 {{volunteer.name}}
                 {% if volunteer.social %}
                   {% for profile in volunteer.social %}
-                    - <a href="{{profile.url}}">{{profile.type}}</a>
+                    - <a target="_blank" href="{{profile.url}}">{{profile.type}}</a>
                   {% endfor %}
                 {% endif %}
               </li>
