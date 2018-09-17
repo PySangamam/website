@@ -14,7 +14,7 @@
       social:
         - type: LinkedIn
           url: https://www.linkedin.com/in/stylesen/
-    - Vijay Kumar B
+    - name: Vijay Kumar B
 
 - name: Web Team
   description: The following people were responsible for building and
@@ -45,6 +45,8 @@
       social:
         - type: LinkedIn
           url: https://www.linkedin.com/in/nischalhp/
+        - type: Twitter
+          url: http://twitter.com/nischalhp
     - name: Amit Kapoor
     - name: Anand Pillai
     - name: Ramya
