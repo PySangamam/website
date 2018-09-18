@@ -77,6 +77,11 @@
         - type: Twitter
           url: https://twitter.com/amitkaps
     - name: Anand Pillai
+      social:
+        - type: LinkedIn
+          url: https://in.linkedin.com/in/anandbpillai
+        - type: Twitter
+          url: https://twitter.com/skeptichacker
     - name: Ramya
     - name: Akshay Aurora
     - name: Senthil Kumaran S
@@ -125,6 +130,11 @@
   description: The following people are to be blamed for everything that went wrong. (In alphabetical order).
   volunteers:
     - name: Abhishek Yadav
+      social:
+        - type: LinkedIn
+          url: https://www.linkedin.com/in/abhishek-yadav-3b11207/
+        - type: Twitter
+          url: https://twitter.com/h6165
     - name: Ashok
     - name: Babusubashchandar
     - name: Krishna Sangeeth
@@ -137,12 +147,28 @@
           url: https://www.linkedin.com/in/stylesen/
     - name: Shrayas
     - name: Vijay Kumar B
+      social:
+        - type: LinkedIn
+          url: https://www.linkedin.com/in/bravegnu/
+        - type: Twitter
+          url: https://twitter.com/bravegnu
 
 - name: Original Idea
   description: The following people came up with the crazy idea of running 
     the conference, despite having zero experince in running one.
   volunteers:
     - name: Abhishek Yadav
+      social:
+        - type: LinkedIn
+          url: https://www.linkedin.com/in/abhishek-yadav-3b11207/
+        - type: Twitter
+          url: https://twitter.com/h6165
     - name: Shrayas
     - name: Rengaraj
     - name: Vijay Kumar B
+      social:
+        - type: LinkedIn
+          url: https://www.linkedin.com/in/bravegnu/
+        - type: Twitter
+          url: https://twitter.com/bravegnu
+
